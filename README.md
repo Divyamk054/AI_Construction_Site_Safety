@@ -333,10 +333,6 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
-
-- **Your Name** - Project Lead
-- **Team Members** - Contributors
 
 ## 🙏 Acknowledgments
 
@@ -348,7 +344,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For questions and support:
-- Email: your.email@example.com
+- Email:mkdivya054@gmail.com
 - GitHub Issues: [Project Issues](https://github.com/yourusername/AI_Construction_Site_Safety/issues)
 
 ## 🎯 Project Status
